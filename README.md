@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="left">Hello, I'm Ayush</div>  
   
 
