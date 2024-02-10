@@ -1,5 +1,3 @@
-<img src="20240208_163520_0000.png" alt="Banner"/>
-
 ### <div align="left">Hello, I'm Ayush</div>  
   
 
