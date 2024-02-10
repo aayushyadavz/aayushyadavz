@@ -3,13 +3,13 @@
 ### <div align="left">Hello, I'm Ayush</div>  
   
 
-- 🔭 I’m currently working on some Python projects  
+- 🔭 I’m currently working on some Web Applications
   
 
-- 🌱 I’m currently learning Python from Angela Yu  
+- 🌱 I’m currently learning "The Complete 2024 Web Developemnt Bootcamp" by Angela Yu
   
 
-- ❓ Ask me about anything related to Python & I'll try my best to answer your question
+- ❓ Ask me about anything related to Web Developemnt & I'll try my best to answer your question
 
   
 <br/>  
