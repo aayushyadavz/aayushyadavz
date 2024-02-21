@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif"  />
+  <img height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"  />
 </div>
 
 ###
