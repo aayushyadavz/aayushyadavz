@@ -64,8 +64,12 @@
   <img src="https://streak-stats.demolab.com?user=AayushYadavz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AayushYadavz
-)](https://github.com/anuraghazra/github-readme-stats)
+###
+
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AayushYadavz&layout=compact)](https://github.com/AayushYadavz/github-readme-stats)
+</div>
 
 ###
+
 
