@@ -28,7 +28,7 @@
 
 ###
 
-<p align="center">I'm Ayush from India <br><br>- 📚 I'm currently learning Web Development<br>- ⚡ In my free time I am active on my social media.</p>
+<p align="center">I'm Ayush from India <br><br>📚 I'm currently learning Web Development<br>⚡ In my free time I am active on my social media.</p>
 
 ###
 
