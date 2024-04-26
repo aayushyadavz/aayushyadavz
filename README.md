@@ -24,15 +24,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Ayush from India <br><br>- 📚 I'm currently learning Web Development<br>- ⚡ In my free time I am active on my social media.</p>
+<p align="center">I'm Ayush from India <br><br>- 📚 I'm currently learning Web Development<br>- ⚡ In my free time I am active on my social media.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
