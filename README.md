@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Web Development<br>🔭 I’m currently working on making some Fontend Projects <br>💬 Ask me about JavaScript, React.<br>⚡ I love to Code & building stuffs</p>
+<p align="left">🌱 I’m currently learning Web Development<br>🔭 I’m currently working on making some Fontend Projects <br>💬 Ask me about JavaScript, React.<br>⚡ I love to Code & Building Projects.</p>
 
 ###
 
