@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Web Developer by Day, CSS Magician by Night. Turning Coffee into Code!</p>
+<p align="left">Frontend developer interested in learning ML/AI, DSA e.t.c</p>
 
 ###
 
