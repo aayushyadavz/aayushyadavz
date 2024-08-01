@@ -8,6 +8,3 @@
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushyadavz&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
-      
----
-[![](https://visitcount.itsvg.in/api?id=ayushyadavz&icon=0&color=0)](https://visitcount.itsvg.in)
