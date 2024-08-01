@@ -1,7 +1,3 @@
-## 💫 About Me:
-🔭 I’m currently exploring my Coding Journey<br>🌱 I’m currently learning Frontend Development<br>💬 Ask me about HTML, CSS & Javascript<br>⚡ CSE at GLA University
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushyadavz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayushyadavz) 
 
@@ -10,14 +6,6 @@
 ## 📊 GitHub Stats:
 
 <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ayushyadavz&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushyadavz&theme=nightowl&hide_border=false" />
-    </td>
-  </tr>
   <tr>
     <td colspan="2" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushyadavz&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
