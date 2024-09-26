@@ -1,4 +1,4 @@
-#### • Aspiring Frontend Developer | CS Student 
+#### Aspiring Frontend Developer | CS Student 
 
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushyadavone) 
