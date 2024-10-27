@@ -11,6 +11,3 @@
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushyadavz&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
-
-### Hacktoberfest! 2024
-[![An image of @aayushyadavz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aayushyadavz)](https://holopin.io/@aayushyadavz)
