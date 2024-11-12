@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hello,<br><br>I'm Ayush, 👋🏻 a web developer with proficiency in HTML, CSS, Tailwind CSS, JavaScript, and React. Currently, I'm advancing my knowledge in frontend web development and seeking internship or job opportunities this year. I’d love to connect and collaborate on exciting projects.<br><br>You can reach me at 👇🏻<br>ayushyadav24nov1234@gmail.com
+Hello,<br><br>I'm Ayush, 👋🏻 a web developer with the skills provided below in this Readme. Currently, I am advancing my knowledge in frontend web development and actively seeking internship or job opportunities this year. I’d love to connect and collaborate on exciting projects.<br><br>You can reach me at 👇🏻<br>ayushyadav24nov1234@gmail.com
+
 
 
 ## 🌐 Socials:
