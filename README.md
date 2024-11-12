@@ -1,7 +1,7 @@
 ## About Me:
 Hello,<br><br>I'm Ayush, 👋🏻 a web developer with the skills provided below in this Readme. Currently, I am advancing my knowledge in frontend web development and actively seeking internship or job opportunities this year. I’d love to connect and collaborate on exciting projects.<br><br>You can reach me at 👇🏻<br>ayushyadav24nov1234@gmail.com
 
-### 🌐 Socials:
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aayushyadavz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aayushyadavz) 
 
 ## 💻 Tech Stack:
